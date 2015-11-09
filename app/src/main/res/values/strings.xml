@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clinica Nueva Vida</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buscar">buscar</string>
+    <string name="title_activity_crear">Crear</string>
+    <string name="title_activity_cita">Cita</string>
+</resources>
